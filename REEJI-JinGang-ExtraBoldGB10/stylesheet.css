@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'REEJI-JinGang-ExtraBoldGB1.0';
+    src: url('REEJI-JinGang-ExtraBoldGB10-Regular.eot');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'REEJI-JinGang-ExtraBoldGB1.0';
+    src: url('REEJI-JinGang-ExtraBoldGB10-Regular.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Noto Emoji';
+    src: url('NotoEmoji.eot');
+    src: url('NotoEmoji.eot?#iefix') format('embedded-opentype'),
+        url('NotoEmoji.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
